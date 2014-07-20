@@ -2,8 +2,6 @@
 Name=Numix-Bevel
 Comment=Legacy version of Numix Base and Circle
 
-Inherits=gnome,hicolor
-
 Example=folder
 
 # Directory list
